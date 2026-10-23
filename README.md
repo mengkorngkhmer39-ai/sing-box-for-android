@@ -1,4 +1,4 @@
-Possivel​F just f# SFA
+MPossivel​F just f# SFA
 
 Experimental Android client for sing-box, the universal proxy platform.
 
